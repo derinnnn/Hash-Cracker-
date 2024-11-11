@@ -1,7 +1,7 @@
 # Hash-Cracker-
 This tool provides both hashing and cracking functionalities for passwords using various algorithms. It’s designed for educational purposes to demonstrate password security, hashing techniques, and password-cracking methods.  Please use responsibly and ensure compliance with all ethical and legal guidelines.
 
-**Features**
+**Features**:
 Hash Generation: Generates hashed passwords using algorithms like MD5, SHA-256, bcrypt, and more.
 Password Cracking: Cracks hashed passwords using a dictionary attack with multithreaded support.
 Customizable Algorithms: Supports native and SQL-based hashing algorithms, as well as advanced methods like PBKDF2 and bcrypt.
